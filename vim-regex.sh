@@ -1,4 +1,3 @@
-abcabcabc
 abab
 abababab
 abababababab
